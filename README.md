@@ -1,4 +1,4 @@
-  ### Hi, I'm Dan 👋
+### Hi, I'm Dan 👋
 
 Senior software engineer specializing in **security automation**, **agentic AI engineering**, and **stabilizing legacy, deeply interconnected systems** — 20+ years across full-stack development, enterprise security, and infrastructure automation.
 
@@ -9,6 +9,8 @@ I focus on the problems that sit at the intersection of security, automation, an
 - 🎮 [`expanse-hacker`](https://github.com/dskzz/expanse-hacker) — a hacking game built on fictional-but-real internet protocols, developed with an agentic AI pipeline
 - 🤖 [`ai-showcase-platform`](https://github.com/dskzz/ai-showcase-platform) — a Flask + TypeScript app for comparing AI assistants side-by-side
 - 🛰️ [`skzproxy`](https://github.com/dskzz/skzproxy) — a Black-Hat-Python-style proxy with a flexible packet editor and byte fuzzer
+- 🔓 [`skzSMBSpray`](https://github.com/dskzz/skzSMBSpray) — a password-spraying framework built on rpcclient
+- 🌐 [`httprqqr`](https://github.com/dskzz/httprqqr) — an HTTP requester for generating custom headers on the fly
 - 🧪 [`rasa-legislative-nlu`](https://github.com/dskzz/rasa-legislative-nlu) — an NLU experiment for parsing legislative motion/vote language
 
 **Stack:** Python, PHP, TypeScript/JavaScript, Perl · AWS (Lambda, API Gateway, IAM) · AI-assisted engineering (Copilot, Claude, OpenAI APIs)
