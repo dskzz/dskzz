@@ -6,12 +6,13 @@ I focus on the problems that sit at the intersection of security, automation, an
 
 **What's here:**
 - 🕵️ [`legsucker`](https://github.com/dskzz/legsucker) — an AI-driven pipeline for scraping, storing, and analyzing state legislative data
-- 🎮 [`expanse-hacker`](https://github.com/dskzz/expanse-hacker) — a hacking game built on fictional-but-real internet protocols, developed with an agentic AI pipeline
+- 🎮 [`expanse-hacker`](https://github.com/dskzz/expanse-hacker) — a hacking game in production, built on fictional-but-real internet protocols including a fake-but-real RFCs corpus and fake-but-real exploits based on that corpus, developed with an agentic AI pipeline
 - 🤖 [`ai-showcase-platform`](https://github.com/dskzz/ai-showcase-platform) — a Flask + TypeScript app for comparing AI assistants side-by-side
 - 🛰️ [`skzproxy`](https://github.com/dskzz/skzproxy) — a Black-Hat-Python-style proxy with a flexible packet editor and byte fuzzer
 - 🔓 [`skzSMBSpray`](https://github.com/dskzz/skzSMBSpray) — a password-spraying framework built on rpcclient
 - 🌐 [`httprqqr`](https://github.com/dskzz/httprqqr) — an HTTP requester for generating custom headers on the fly
 - 🧪 [`rasa-legislative-nlu`](https://github.com/dskzz/rasa-legislative-nlu) — an NLU experiment for parsing legislative motion/vote language
+- ⚖️ [`rasa2-legal-analysis`](https://github.com/dskzz/rasa2-legal-analysis) — a task-oriented dialogue system that triages legal-intake messages by practice area and venue, no LLM required; Experimental demo
 
 **Stack:** Python, PHP, TypeScript/JavaScript, Perl · AWS (Lambda, API Gateway, IAM) · AI-assisted engineering (Copilot, Claude, OpenAI APIs)
 
